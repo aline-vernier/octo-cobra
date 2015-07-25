@@ -1,0 +1,38 @@
+Coefficients
+Acquisition 	2015/07/10 17:30:18,921
+Save 	2015/07/10 17:30:21,780
+
+ASO Size : 40 x 32; ASO Step : 114,055138 um x 113,922546 um
+Pupil Center (x, y) : (-0,186618 mm x 0,151014 mm) ; Pupil radius : 1,715026 mm; PV Zernike normalization
+1	R cos(theta)	Tilt at 0°	-5,0465
+2	R sin(theta)	Tilt at 90°	-81,9063
+3	2R^2 - 1	Focus	19,9852
+4	R^2 cos(2theta)	Astigmatism at 0°	0,0225
+5	R^2 sin(2theta)	Astigmatism at 45°	-0,0429
+6	(3R^2-2)R cos(theta)	Coma at 0°	0,0023
+7	(3R^2-2)R sin(theta)	Coma at 90°	0,0495
+8	6R^4 - 6R^2 + 1	3th order spherical aberration	0,0710
+9	R^3 cos(3theta)	Trefoil at 0°	0,0368
+10	R^3 sin(3theta)	Trefoil at 90°	0,0040
+11	(4R^2-3)R^2 cos(2theta)	5th order astigmatism at 0°	-0,0166
+12	(4R^2-3)R^2 sin(2theta)	5th order astigmatism at 45°	0,0066
+13	(10R^4-12R^2+3)R cos(theta)	5th order coma at 0°	-0,0144
+14	(10R^4-12R^2+3)R sin(theta)	5th order coma at 90°	-0,1005
+15	20R^6-30R^4+12R^2-1	5th order spherical aberration	-0,0154
+16	R^4 cos(4theta)	Tetrafoil at 0°	-0,0161
+17	R^4 sin(4theta)	Tetrafoil at 45°	-0,0165
+18	(5R^2-4)R^3 cos(3theta)	7th order trefoil at 0°	-0,0217
+19	(5R^2-4)R^3 sin(3theta)	7th order trefoil at 90°	-0,0105
+20	(15R^4-20R^2+6)R^2 cos(2theta)	7th order astigmatism at 0°	0,0026
+21	(15R^4-20R^2+6)R^2 sin(2theta)	7th order astigmatism at 45°	0,0149
+22	(35R^6-60R^4+30R^2-4)R cos(theta)	7th order coma at 0°	-0,0083
+23	(35R^6-60R^4+30R^2-4)R sin(theta)	7th order coma at 90°	0,0044
+24	70R^8-140R^6+90R^4-20R^2+1	7th order spherical aberration	-0,0078
+25	R^5 cos(5theta)	Pentafoil at 0°	0,0981
+26	R^5 sin(5theta)	Pentafoil at 90°	-0,1404
+27	(6R^2-5)R^4 cos(4theta)	9th order tetrafoil at 0°	-0,0246
+28	(6R^2-5)R^4 sin(4theta)	9th order tetrafoil at 45°	-0,0178
+29	(21R^4-30R^2+10)R^3 cos(3theta)	9th order trefoil at 0°	-0,0190
+30	(21R^4-30R^2+10)R^3 sin(3theta)	9th order trefoil at 90°	0,0125
+31	(56R^6-105R^4+60R^2-10)R^2 cos(2theta)	9th order astigmatism at 0°	0,0047
+32	(56R^6-105R^4+60R^2-10)R^2 sin(2theta)	9th order astigmatism at 45°	-0,0127

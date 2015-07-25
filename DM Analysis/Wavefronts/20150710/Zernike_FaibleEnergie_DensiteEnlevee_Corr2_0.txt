@@ -1,0 +1,38 @@
+Coefficients
+Acquisition 	2015/07/10 16:38:47,461
+Save 	2015/07/10 16:39:27,558
+
+ASO Size : 40 x 32; ASO Step : 114,055138 um x 113,922546 um
+Pupil Center (x, y) : (-0,182343 mm x 0,194467 mm) ; Pupil radius : 1,758888 mm; PV Zernike normalization
+1	R cos(theta)	Tilt at 0°	-5,1095
+2	R sin(theta)	Tilt at 90°	-82,1801
+3	2R^2 - 1	Focus	21,5553
+4	R^2 cos(2theta)	Astigmatism at 0°	-0,0538
+5	R^2 sin(2theta)	Astigmatism at 45°	-0,0088
+6	(3R^2-2)R cos(theta)	Coma at 0°	-0,0111
+7	(3R^2-2)R sin(theta)	Coma at 90°	0,0294
+8	6R^4 - 6R^2 + 1	3th order spherical aberration	-0,0223
+9	R^3 cos(3theta)	Trefoil at 0°	0,0238
+10	R^3 sin(3theta)	Trefoil at 90°	-0,0101
+11	(4R^2-3)R^2 cos(2theta)	5th order astigmatism at 0°	0,0069
+12	(4R^2-3)R^2 sin(2theta)	5th order astigmatism at 45°	0,0136
+13	(10R^4-12R^2+3)R cos(theta)	5th order coma at 0°	-0,0122
+14	(10R^4-12R^2+3)R sin(theta)	5th order coma at 90°	-0,1134
+15	20R^6-30R^4+12R^2-1	5th order spherical aberration	-0,0058
+16	R^4 cos(4theta)	Tetrafoil at 0°	-0,0203
+17	R^4 sin(4theta)	Tetrafoil at 45°	-0,0301
+18	(5R^2-4)R^3 cos(3theta)	7th order trefoil at 0°	-0,0209
+19	(5R^2-4)R^3 sin(3theta)	7th order trefoil at 90°	-0,0359
+20	(15R^4-20R^2+6)R^2 cos(2theta)	7th order astigmatism at 0°	0,0039
+21	(15R^4-20R^2+6)R^2 sin(2theta)	7th order astigmatism at 45°	0,0214
+22	(35R^6-60R^4+30R^2-4)R cos(theta)	7th order coma at 0°	-0,0150
+23	(35R^6-60R^4+30R^2-4)R sin(theta)	7th order coma at 90°	0,0128
+24	70R^8-140R^6+90R^4-20R^2+1	7th order spherical aberration	-0,0031
+25	R^5 cos(5theta)	Pentafoil at 0°	0,1279
+26	R^5 sin(5theta)	Pentafoil at 90°	-0,1191
+27	(6R^2-5)R^4 cos(4theta)	9th order tetrafoil at 0°	0,0032
+28	(6R^2-5)R^4 sin(4theta)	9th order tetrafoil at 45°	-0,0164
+29	(21R^4-30R^2+10)R^3 cos(3theta)	9th order trefoil at 0°	-0,0233
+30	(21R^4-30R^2+10)R^3 sin(3theta)	9th order trefoil at 90°	-0,0011
+31	(56R^6-105R^4+60R^2-10)R^2 cos(2theta)	9th order astigmatism at 0°	-0,0081
+32	(56R^6-105R^4+60R^2-10)R^2 sin(2theta)	9th order astigmatism at 45°	-0,0136
