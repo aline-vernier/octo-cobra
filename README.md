@@ -1,2 +1,3 @@
 # octo-cobra
-Awesome Python stuff
+Miscellaneous Pyhton, mostly DM before fiber analysis, impact of grism compressor on wavefront
+
